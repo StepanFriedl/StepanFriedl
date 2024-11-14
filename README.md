@@ -5,8 +5,6 @@
 
 - ✅ I have been working on [EventPos Wallet](https://apps.apple.com/cz/app/eventpos-wallet/id1617289523), [Event Helper Crew](https://apps.apple.com/cz/app/event-helper-crew/id1614605054) and [EventTicket](https://apps.apple.com/cz/app/eventticket/id6479360180).
 
-- 🎨 Outside of work, I craft my personal project [Transfer Protocols](https://github.com/StepanFriedl/TransferProtocols.git).
-
 - 💬 Ask me about **SwiftUI**
 
 - 📫 Reach me on **stepanfriedl13@gmail.com**
