@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Štěpán Friedl</h1>
 <h3 align="center">A passionate mobile developer from Czechia, focused on SwiftUI</h3>
 
-- 🔭 I’m currently working on [Krudtteltet](https://apps.apple.com/cz/app/krudtteltet/id6471286210) and SmartHanger.
+- 🔭 I’m currently working on Kuba English ([iOS](https://apps.apple.com/cz/app/kuba-english-par%C5%A5%C3%A1k-do-kapsy/id6504236543), [Android](https://play.google.com/store/apps/details?id=cz.applifting.kubovaenglish)) and Captain English ([iOS](https://apps.apple.com/cz/app/captain-english-ai-tutor/id6747291308), [Android](https://play.google.com/store/apps/details?id=us.jaik.captainenglish)).
 
-- ✅ I have been working on [EventPos Wallet](https://apps.apple.com/cz/app/eventpos-wallet/id1617289523), [Event Helper Crew](https://apps.apple.com/cz/app/event-helper-crew/id1614605054) and [EventTicket](https://apps.apple.com/cz/app/eventticket/id6479360180).
+- ✅ I have been working on [Krudtteltet](https://apps.apple.com/cz/app/krudtteltet/id6471286210), [EventPos Wallet](https://apps.apple.com/cz/app/eventpos-wallet/id1617289523), [Event Helper Crew](https://apps.apple.com/cz/app/event-helper-crew/id1614605054) and [EventTicket](https://apps.apple.com/cz/app/eventticket/id6479360180).
 
 - 💬 Ask me about **SwiftUI**
 
